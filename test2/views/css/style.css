@@ -1,0 +1,22 @@
+.success{
+    border: #00FF00 1px solid;
+    padding: 3px;
+    border-radius: 3px;
+    background: #CCFFCC;
+    margin-bottom:3px;
+}
+
+.error{
+    border: #FF0000 1px solid;
+    padding: 3px;
+    border-radius: 3px;
+    background: #FFCCCC;
+    margin-bottom:3px;
+}
+
+.file{
+    border: #CCCCCC 1px solid;
+    padding: 3px;
+    border-radius: 3px;
+
+}
